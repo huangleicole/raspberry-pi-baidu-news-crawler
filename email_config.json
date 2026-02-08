@@ -1,0 +1,9 @@
+{
+    "smtp_server": "smtp.126.com",
+    "smtp_port": 465,
+    "sender_email": "发送的邮箱",
+    "sender_password": "授权码",
+    "receiver_email": "接收的邮箱",
+    "use_ssl": false,
+    "use_tls": true
+}
